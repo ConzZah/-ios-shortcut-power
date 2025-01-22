@@ -1,3 +1,3 @@
-# Power Shortcut [IOS]
+# PowerMGR
 
-pretty simple power options menu for ios when you need to shut down or reboot with a click of a button.
+pretty simple power options menu for ios when you need to toggle low power mode, shut down or reboot with the click of a button.
